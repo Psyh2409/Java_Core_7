@@ -8,8 +8,9 @@ public abstract class Plane {
 	public void startEngines() {
 		System.out.println("Take-off of the plane must be over " + (20 + (Math.random() * ((88 - 20) + 1))) + " minutes.");
 	}
+	
 	public void takeOff() {
-		System.out.println("There is enough fuel for " + Math.random() * 1000 + " km.");
+		System.out.println("There is enough fuel for " + ((Math.random() * 1000) + 1) + " km.") ;
 	}
 	
 	public void landing() {

@@ -5,12 +5,12 @@ public class Main {
 		Su_27 su = new Su_27(2500, "blue");
 		su.startEngines();
 		su.takeOff();
-		su.movementUp();
-		su.movementLeft();
-		su.movementDown();
-		su.movementRight();
+		su.moveUp();
+		su.moveLeft();
+		su.moveDown();
+		su.moveRight();
 		su.stealthMode();
-		su.NuclearShock();
+		su.nuclearShock();
 		su.turboAcselerator();
 		su.landing();
 		}

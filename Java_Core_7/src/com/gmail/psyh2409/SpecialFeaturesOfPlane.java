@@ -4,5 +4,5 @@ public interface SpecialFeaturesOfPlane {
 
 	public void turboAcselerator();
 	public void stealthMode();
-	public void NuclearShock();
+	public void nuclearShock();
 }
