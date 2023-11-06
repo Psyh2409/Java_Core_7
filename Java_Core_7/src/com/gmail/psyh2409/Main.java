@@ -16,14 +16,14 @@ public class Main {
 		}
 }
 /* Output:
-Take-off of the plane must be over 84.42145483608873 minutes.
-There is enough fuel for 719.6419654221903 km.
-Movement up 15.686933938164238 km.
-Movement left 34.19839036927089 km.
-Movement down 9.40446130826318 km.
-Movement right 0.8419057196456858 km.
-The plane will be invisible next 10.1844314226623 minutes.
-1 warheads will be dropped.
-Turbo Accelerator! Speed is 2581.2349189748716 km/h.
+Take-off of the plane must be over 60.517699520133974 minutes.
+There is enough fuel for 823.0379029591234 km.
+Movement up 7.830892932904754 km.
+Movement left 8.392147300362662 km.
+Movement down 57.7505244833775 km.
+Movement right 5.263914463499864 km.
+The plane will be invisible next 89.60463394260381 minutes.
+9 warheads will be dropped.
+Turbo Acselerator! Speed is 2937.702448964666 km/h.
 Plane is landing. Good luck!
  */
